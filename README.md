@@ -2,7 +2,7 @@
 
 Authors (@slack) : Adekoya Ademilola ( @Demi_Nevaeh)
 
-GitHub Repo: https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/Converted%20Text.md
+GitHub Repo:https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/README.md
 
 Antibiotics along with antifungals, anti-parasitic and antivirals belong to a family of antimicrobial agents. They are known for their effective action in eradicating infectious disease. (WHO, 2023)
 

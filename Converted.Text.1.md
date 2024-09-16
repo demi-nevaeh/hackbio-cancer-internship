@@ -3,19 +3,21 @@ Authors (@slack) : Adekoya Ademilola ( @Demi_Nevaeh)
 
 GitHub Repo:https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/README.md
 
-Antibiotics along with antifungals, anti-parasitic and antivirals belong to a family of antimicrobial agents. They are known for their effective action in eradicating infectious disease. (WHO, 2023)
+## Introduction
+Antibiotics along with antifungals, anti-parasitic and antivirals belong to a family of antimicrobial agents. They are known for their effective action in eradicating infectious disease. (WHO, 2023) However the misuse and overuse of antibiotics, has resulted in antimicrobial resistance (AMR) which is being recognised as a global threat. (Nanayakkara et al., 2021) Infection is the second leading cause of death (Nanayakkara et al., 2021) due to the immunocompromised state of most cancer patients. They have worse outcomes of infectious diseases compared to healthy people. (CDC,2024) AMR undermines the progress made by various cancer therapies (The Impact of Antimicrobial Resistance on Cancer Patients, 2023) by predisposing them to increased susceptibility to infections like Pneumonia and sepsis. Notably, 8.5% of cancer death is a result of sepsis. (Yehoda et Shalini, 2021)
 
-However the misuse and overuse of antibiotics, has resulted in antimicrobial resistance (AMR) which is being recognised as a global threat. (Nanayakkara et al., 2021)
-
-Infection is the second leading cause of death (Nanayakkara et al., 2021) due to the immunocompromised state of most cancer patients. They have worse outcomes of infectious diseases compared to healthy people. (CDC,2024) AMR undermines the progress made by various cancer therapies (The Impact of Antimicrobial Resistance on Cancer Patients, 2023) by predisposing them to increased susceptibility to infections like Pneumonia and sepsis. Notably, 8.5% of cancer death is a result of sepsis. (Yehoda et Shalini, 2021)
+## The Threat of AMR in Cancer Treatment
 
 Misuse and overuse of antibiotics leading to antibiotics resistance can result in serious adverse effects (Carl et Lars, 2014). Just one organism, methicillin-resistant Staphylococcus aureus (MRSA) kills more Americans than emphysema, HIV/AIDs, Parkinson's disease and homicide combined (Spellberg et al., 2011). It also results in elevated cost of healthcare as frontline antibiotics which are relatively more affordable and safe than the second-line and third-line, are no longer effective (Prestinaci et al., 2015). Longer hospital stay and isolation procedures further increases the cost of healthcare (Carl et Lars, 2014).
 
+## Factors Contributing to AMR
 Key factors identified in the development of AMR include the excessive prescription of antibiotics due to diagnostic uncertainty in distinguishing between viral and bacterial infections (Prestinaci et al., 2015). Self-education and easy access to antibiotics over the counter without the prescription by a physician is also another factor. In the hospital setting, the intensive and prolonged use of antibiotics (mostly broad spectrum) is probably the major contributor to the emergence of antibiotic-resistant bacteria.(Prestinaci et al., 2015)
 
+## Combating AMR in Cancer Care
 In combating AMR, a major obstacle in cancer care, raising awareness among the public, policymakers, patients and health providers is crucial (UICC, 2024). Antibiotics Stewardship programs should promote appropriate use of antibiotics amongst healthcare professionals (Nanayakkara et al., 2021). Regulatory measures should be employed to tackle over the counter sale of antibiotics. Data collection is another option whereby global data sharing can provide vital insights into resistance patterns leading to improved clinical care specifically tailored to the needs of the patients. Exploring probiotics as an additional therapy can also help restore the gut microbiome which has been affected by the use of antibiotics. (CDC, 2024)
 
-In conclusion, while the use of antibiotics in cancer patients is valid, the prolonged use, misuse or overuse can result in AMR which can be life threatening especially in cancer patients (WHO, 2023). By implementing healthcare strategies, healthcare providers can mitigate the impact of AMR and ensure that cancer patients receive effective and safe treatment (Shelke et al., 2023).
+## Conclusion
+While the use of antibiotics in cancer patients is valid, the prolonged use, misuse or overuse can result in AMR which can be life threatening especially in cancer patients (WHO, 2023). By implementing healthcare strategies, healthcare providers can mitigate the impact of AMR and ensure that cancer patients receive effective and safe treatment (Shelke et al., 2023).
 
 # REFERENCES
 (2023) Antimicrobial resistance. Available at: https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance (Accessed: 03 September 2024).

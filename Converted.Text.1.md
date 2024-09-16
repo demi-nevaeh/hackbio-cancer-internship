@@ -1,4 +1,4 @@
-Antibiotics and AMR in Cancer: A Complex Relationship
+# Antibiotics and AMR in Cancer: A Complex Relationship
 Authors (@slack) : Adekoya Ademilola ( @Demi_Nevaeh)
 
 GitHub Repo:https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/README.md
@@ -17,7 +17,7 @@ In combating AMR, a major obstacle in cancer care, raising awareness among the p
 
 In conclusion, while the use of antibiotics in cancer patients is valid, the prolonged use, misuse or overuse can result in AMR which can be life threatening especially in cancer patients (WHO, 2023). By implementing healthcare strategies, healthcare providers can mitigate the impact of AMR and ensure that cancer patients receive effective and safe treatment (Shelke et al., 2023).
 
-REFERENCES
+# REFERENCES
 (2023) Antimicrobial resistance. Available at: https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance (Accessed: 03 September 2024).
 
 Prestinaci F, Pezzotti P, Pantosti A. Antimicrobial resistance: a global multifaceted phenomenon. Pathog Glob Health. 2015;109(7):309-18. doi: 10.1179/2047773215Y.0000000030. Epub 2015 Sep 7. PMID: 26343252; PMCID: PMC4768623.

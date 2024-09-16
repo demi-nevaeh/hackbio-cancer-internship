@@ -1,8 +1,8 @@
 # Antibiotics and AMR in Cancer: A Complex Relationship
 Authors (@slack) : Adekoya Ademilola ( @Demi_Nevaeh)
 
-GitHub Repo:[https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/Converted.Text.1.md
-]
+GitHub Repo: https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/Converted.Text.1.md
+
 ## Introduction
 Antibiotics along with antifungals, anti-parasitic and antivirals belong to a family of antimicrobial agents. They are known for their effective action in eradicating infectious disease. (WHO, 2023) However the misuse and overuse of antibiotics, has resulted in antimicrobial resistance (AMR) which is being recognised as a global threat. (Nanayakkara et al., 2021) Infection is the second leading cause of death (Nanayakkara et al., 2021) due to the immunocompromised state of most cancer patients. They have worse outcomes of infectious diseases compared to healthy people. (CDC,2024) AMR undermines the progress made by various cancer therapies (The Impact of Antimicrobial Resistance on Cancer Patients, 2023) by predisposing them to increased susceptibility to infections like Pneumonia and sepsis. Notably, 8.5% of cancer death is a result of sepsis. (Yehoda et Shalini, 2021)
 

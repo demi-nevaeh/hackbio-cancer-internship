@@ -12,7 +12,7 @@ Irina Andriushchenko (@rirkella)
 Antara Ghanta (@Tara)
 Narendran Mayilvaganan (@Naren037)
 ### Code
-The analysis code used for this project is available here.
+The analysis code used for this project is available [here.](https://github.com/demi-nevaeh/hackbio-cancer-internship/blob/main/STAGE%202/Code.R)
 
 
 ## Results

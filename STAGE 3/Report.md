@@ -4,7 +4,7 @@
 
 **TEAM:** Narendran Mayilvaganan (@Naren037), Ademilola Adekoya (@Demi\_Nevaeh), Ghizal Niko (@Ghizal), Eman Binte Hafeez (@emanuts), David Ojo (@Dajom), Lillian Mwinja (@LillianMwinja), Irina Andriushchenko (@rirkella), Antara Ghanta (@Tara)
 
-**CODE:** 
+**CODE:** https://github.com/demi-nevaeh/hackbio-cancer-internship/tree/main/STAGE%203/Codes
 1. # **INTRODUCTION**
 
    Acute myeloid leukemia (AML) is a myeloid neoplasm resulting in clonal expansion of primitive hematopoietic stem cells, known as blasts, in the bone marrow (Vakiti & Mewawalla, 2019). Myeloblasts increase while healthy white blood cells, red blood cells, and platelets decrease (National Cancer Institute, 2019). AML can also be classified as newly diagnosed, in remission, or recurrent (National Cancer Institute, 2019).  

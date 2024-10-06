@@ -12,4 +12,4 @@ This repository provides insights into the critical intersection of antibiotics 
 2. The Threat of AMR in Cancer Treatment
 3. Factors Contributing to AMR
 4. Combating AMR in Cancer Care
-5. ConclusionSta
+5. Conclusion

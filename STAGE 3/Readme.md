@@ -19,7 +19,7 @@ ML Model Performance: Achieved 100% training accuracy and 91% testing accuracy, 
 
 
 ## Code
-All the code used for data processing, DGE, and ML modeling can be found here.
+All the code used for data processing, DGE, and ML modeling can be found https://github.com/demi-nevaeh/hackbio-cancer-internship/tree/main/STAGE%203/Codeg.
 
 
 

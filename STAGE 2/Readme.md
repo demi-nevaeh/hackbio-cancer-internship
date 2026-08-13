@@ -1,6 +1,6 @@
 # Gene Expression Analysis in Glioblastoma
 ## Overview
-This project focuses on analyzing gene expression raw data to predict differentially expressed genes of significance and perform functional enrichment analysis in glioblastoma samples. The study aims to identify molecular subtypes and gene signatures that can aid in biomarker discovery and targeted therapy for glioblastoma patients.
+This project focuses on analyzing gene expression raw data to identify differentially expressed genes of significance and perform functional enrichment analysis in glioblastoma samples. The study aims to identify molecular subtypes and gene signatures that can aid in biomarker discovery and targeted therapy for glioblastoma patients.
 
 ## Team Members
 Ghizal Niko (@Ghizal)
